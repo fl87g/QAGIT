@@ -1,3 +1,5 @@
 Contact file text
 
 Add a line
+
+Add another line
